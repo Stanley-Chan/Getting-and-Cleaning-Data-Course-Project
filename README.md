@@ -13,7 +13,7 @@ You should create one R script called run_analysis.R that does the following:-
 #####How the run_analysis.R script works
 1. Downlod the zip file from data source.
 2. Uzip the zip file.
-3. Load the data into seperate dataset.
+3. Extract the mean and standard deviation measurement and load the data into a seperate dataset.
 4. All the dataset will be name with appropritely and descriptive variable names.
 5. Merge train dataset.
 6. Merge test dataset.
