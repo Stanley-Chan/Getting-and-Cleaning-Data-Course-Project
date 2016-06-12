@@ -106,7 +106,7 @@ Steps 4 : Analyze all the dataset by using head(), names(), summary() and etc.
 
 Steps 5 : Define criteria to filter data and extract data by using grep.
 
-Steps 6 : Naming all the columns / variables with descriptive variable names by using gsub.
+Steps 6 : Naming all the columns / variables with descriptive variable names by using gsub and Subset.
 
 Steps 7 : Look into the data columns using names(). Define which function to use (merge, cbind, rbind and etc.) to merge the dataset.
 
